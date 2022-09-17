@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @noos3
-- 👀 I’m interested in Frontend Web Development
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on anything that can be learnt
+- 👀 I am a Frontend Web Developer
+- 🌱 I currently know HTML, CSS and JavaScript
+- 💞️ I’m looking to collaborate on anything, even for fun 🙂
 - 📫 How to reach me using my email @rajijoseph.jr@gmail.com
 
 <!---
